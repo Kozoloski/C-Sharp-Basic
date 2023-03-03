@@ -1,0 +1,15 @@
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.exe
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.deps.json
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.runtimeconfig.json
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.dll
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.pdb
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.dll
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\refint\SwapNumbers.dll
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.pdb
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\SwapNumbers\obj\Debug\net6.0\ref\SwapNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\bin\Debug\net6.0\AverageNumbers.exe
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\bin\Debug\net6.0\AverageNumbers.deps.json
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\bin\Debug\net6.0\AverageNumbers.runtimeconfig.json
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\bin\Debug\net6.0\AverageNumbers.dll
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\bin\Debug\net6.0\AverageNumbers.pdb
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.dll
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\refint\AverageNumbers.dll
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.pdb
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\AverageNumbers.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\Homework-1\Homework-1\AverageNumbers\obj\Debug\net6.0\ref\AverageNumbers.dll
