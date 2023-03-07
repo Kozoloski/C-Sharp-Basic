@@ -1,0 +1,15 @@
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\bin\Debug\net6.0\StudentGroup.exe
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\bin\Debug\net6.0\StudentGroup.deps.json
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\bin\Debug\net6.0\StudentGroup.runtimeconfig.json
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\bin\Debug\net6.0\StudentGroup.dll
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\bin\Debug\net6.0\StudentGroup.pdb
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.dll
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\refint\StudentGroup.dll
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.pdb
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\StudentGroup.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\Homework-2\Homework-2\StudentGroup\obj\Debug\net6.0\ref\StudentGroup.dll
